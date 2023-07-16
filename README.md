@@ -1,4 +1,4 @@
-# Baldi's Basics Speedrunning Mod [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S244CYE)
+# Baldi's Basics Speedrunning Mod
 A mod for Baldi's Basics (Classic Remastered) that provides a timer for speedrunners.
 
 ## Installation
